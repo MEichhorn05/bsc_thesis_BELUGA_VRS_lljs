@@ -1,5 +1,5 @@
 # bsc_thesis_BELUGA_VRS_lljs
-The provided code was created within the B. Sc. Thesis with the title "Analyse von Starkwindbändern (Low Level Jets) in der arktischen atmosphärischen Grenzschicht anhand von Fesselballonmessungen in Station Nord (Grönland)".
+The provided code was used in the B. Sc. Thesis: "Analyse von Starkwindbändern (Low Level Jets) in der arktischen atmosphärischen Grenzschicht anhand von Fesselballonmessungen in Station Nord (Grönland)".
 The code was written in a jupyter notebook using the Python Version 3.12.9.
 The following data is used: 
 
